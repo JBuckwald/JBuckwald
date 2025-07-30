@@ -1,8 +1,10 @@
-Chef turned developer with a passion for security & data structures.
+<h1 align="left"> Hi there 👋</h1>
+
+I'm Josh, a chef turned developer with a passion for security & data structures.
+
+
 
 ⚙️ I use daily: .py, .js, .html, .css
-
-
 
 
 💻 Full Tech Stack
