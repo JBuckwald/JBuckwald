@@ -1,20 +1,21 @@
 <h1 align="left"> Hi there 👋</h1>
 
-I'm Josh, a chef turned developer with a passion for security & data structures.
+<p>I'm Josh, a chef turned developer with a passion for security & data structures.</p>
+<p>________________________________________________________________________________</p>
 
 
-
-⚙️ I use daily: .py, .js, .html, .css
-
-
-💻 Full Tech Stack
+<h4>⚙️ I Use Daily</h4>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+
+<h4>💻 Full Tech Stack</h4>
+<p align="left">
 <a href="https://d3js.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
 </a>
@@ -32,7 +33,7 @@ I'm Josh, a chef turned developer with a passion for security & data structures.
 </a>
 </p>
 
-📫 How to Reach Me
+<h4>📫 How to Reach Me</h4>
 <p align="left">
 <a href="mailto:josh.buckwald@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
