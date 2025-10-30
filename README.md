@@ -1,6 +1,8 @@
 <h1 align="left"> Hi there 👋</h1>
 
-<p>I'm Josh, a chef turned developer with a passion for security & data structures.</p>
+<p>I'm Josh, a chef turned developer with a passion for security.</p>
+MS Cybersecurity, NYU Tandon School of Engineering | Expected 2028
+Cyber Fellowship Recipient
 <p>________________________________________________________________________________</p>
 
 
