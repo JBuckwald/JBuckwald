@@ -2,7 +2,7 @@
 
 <p>I'm Josh, a chef turned developer with a passion for security.</p>
 MS Cybersecurity, NYU Tandon School of Engineering | Expected 2028
-Cyber Fellowship Recipient
+<br>Cyber Fellowship Recipient
 <p>________________________________________________________________________________</p>
 
 
