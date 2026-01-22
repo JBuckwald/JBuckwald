@@ -1,7 +1,7 @@
-<h1 align="left"> Hi there 👋</h1>
+<h1 align="left"> Hi there, I'm Josh. 👋</h1>
 
-<p>I'm Josh, a chef turned developer with a passion for security.</p>
-MS Cybersecurity, NYU Tandon School of Engineering | Class of 2028
+<p>IT & Cybersecurity professional with hands-on experience in incident detection, investigation, and response across
+cloud and endpoint environments. NYU Tandon Cyber Fellow pursuing an M.S. in Cybersecurity, Class of 2028.</p>
 <br>Cyber Fellowship Recipient
 <p>________________________________________________________________________________</p>
 
