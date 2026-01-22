@@ -2,7 +2,7 @@
 
 <p>IT & Cybersecurity professional with hands-on experience in incident detection, investigation, and response across
 cloud and endpoint environments. NYU Tandon Cyber Fellow pursuing an M.S. in Cybersecurity, Class of 2028.</p>
-<br>Cyber Fellowship Recipient
+
 <p>________________________________________________________________________________</p>
 
 
