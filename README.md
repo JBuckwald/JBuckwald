@@ -1,7 +1,10 @@
 <h1 align="left"> Hi there, I'm Josh. 👋</h1>
 
 <p>IT & Cybersecurity professional with hands-on experience in incident detection, investigation, and response across
-cloud and endpoint environments. NYU Tandon Cyber Fellow pursuing an M.S. in Cybersecurity, Class of 2028.</p>
+cloud and endpoint environments.
+👨‍💻 Financial Crimes & Complaice, Vestwell
+🎓 NYU Tandon Cyber Fellow, M.S. in Cybersecurity, Class of 2028.
+</p>
 
 <p>________________________________________________________________________________</p>
 
