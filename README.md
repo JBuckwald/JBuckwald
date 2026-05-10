@@ -2,7 +2,11 @@
 
 <p>IT & Cybersecurity professional with hands-on experience in incident detection, investigation, and response across
 cloud and endpoint environments.
+
+  
 👨‍💻 Financial Crimes & Complaice, Vestwell
+
+
 🎓 NYU Tandon Cyber Fellow, M.S. in Cybersecurity, Class of 2028.
 </p>
 
